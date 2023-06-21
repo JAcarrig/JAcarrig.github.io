@@ -1,0 +1,35 @@
+#project-title{
+    margin: 10px 20px;
+}
+#project-title-image{
+    width: 90%;
+}
+#project-description{
+    margin: 10px 40px 0 40px;
+}
+#project-video{
+    width: 90%;
+    aspect-ratio: 16/10;
+    margin-top: 10px;
+}
+#gallery{
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    position: relative;
+}
+.gallery-item{
+    width: 50%;
+    padding: 10px;
+}
+.section-header{
+    margin-top: 50px;
+    margin: 50px 0 0 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    letter-spacing: 4px;
+    font-size: 28Pt;
+}
