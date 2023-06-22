@@ -197,5 +197,22 @@ footer{
 #about-me h2{
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
-    font-size: 20pt;
+    font-size: 28pt;
+    margin-bottom: 10px;
+}
+
+#about-me p{
+    font-size: 16pt;
+}
+
+.item-header h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    letter-spacing: 4px;
+    font-size: 28Pt;
+    margin: 30px 0 0 0;
+}
+.item-header p{
+    font-size: 16pt;
+
 }
