@@ -216,3 +216,45 @@ footer{
     font-size: 16pt;
 
 }
+
+@media (max-width: 1483px){
+
+    #main-content{
+        /* background-color: red; */
+        width: 100%;
+    }
+
+    .item-box{
+        width: 100%;
+        max-width: 100%;
+        margin: 10px 0 0 0;
+        border-width: 2px 0 2px 0;
+        border-right: 0px;
+        border-left: 0px;
+    }
+
+    .secondary-items{
+        flex-direction: column;
+        margin: 0;
+    }
+
+    #about-me{
+        padding: 0 5px 10px 5px;
+    }
+
+    #navbar{
+        flex-direction: column;
+    }
+
+    .nav-link{
+        border-top: 1px solid #2e2e2e;
+        border-bottom: 1px solid #2e2e2e;
+        border-right: none;
+        border-left: none;
+        padding: 40px 0 40px 0;
+    }
+
+
+
+
+}
