@@ -95,6 +95,7 @@ img{
     max-height: 100%;
     width: 100%;
     z-index: 1;
+    height: 110%;
 }
 
 .hover-overlay{
